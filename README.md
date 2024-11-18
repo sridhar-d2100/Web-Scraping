@@ -12,7 +12,7 @@ This project focuses on extracting data from websites in a **legal and compliant
 
 1. **Dynamic Page Rendering**  
    - Use **Playwright**, a modern web automation library, to load and render dynamic web pages.  
-   - Ensure JavaScript-driven content is fully rendered before extracting data.  
+ 
 
 2. **HTML Parsing**  
    - Pass the rendered HTML to **Beautiful Soup** for structured parsing.  
